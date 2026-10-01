@@ -1,4 +1,4 @@
-# 🔒 L-Trace — Secure Medico-Legal Evidence Exchange Bridge
+#  L-Trace — Secure Medico-Legal Evidence Exchange Bridge
 ### *Product Marketing (PMM) | Performance & ABM | Content Marketing Suite*
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 **L-Trace** is a zero-trust, cryptographically verified digital evidence bridge designed to solve the critical gaps in how medico-legal evidence moves between healthcare institutions, forensic laboratories, police precincts, and judicial courts.
 
@@ -19,18 +19,18 @@ This repository serves as an **Interactive B2G & Enterprise Product Marketing Po
 
 ---
 
-## 🚀 Live Interactive Features
+##  Live Interactive Features
 
-- **🩺 Multi-Stakeholder Perspective Switcher**: Toggle view between Doctor/ER Physician, Forensic Pathologist, Police Detective, and Judicial Prosecutor.
-- **🔐 Cryptographic Evidence Chain-of-Custody Simulator**: Create, seal, and verify evidence cases with SHA-256 hash checks and QR handover generation.
-- **🎯 Product Marketing (PMM) Frameworks**: Positioning matrix, 4-stakeholder persona analysis, 90-day B2G GTM launch blueprint, and competitive battlecards.
-- **📈 Account-Based Marketing (ABM) Sandbox**: B2G ad mockups for LinkedIn, Google Search, and Civic Tech, plus a **Dynamic B2G Cost-of-Delay & ROI Calculator**.
-- **📝 Content & SEO Strategy Matrix**: High-intent B2G keyword universe (30k+ volume), governance pillar whitepaper preview, and a 30-day multi-channel calendar.
-- **💼 Resume & STAR Interview Kit**: Role-specific bullet points for resume inclusion and STAR framework talking points.
+- ** Multi-Stakeholder Perspective Switcher**: Toggle view between Doctor/ER Physician, Forensic Pathologist, Police Detective, and Judicial Prosecutor.
+- ** Cryptographic Evidence Chain-of-Custody Simulator**: Create, seal, and verify evidence cases with SHA-256 hash checks and QR handover generation.
+- ** Product Marketing (PMM) Frameworks**: Positioning matrix, 4-stakeholder persona analysis, 90-day B2G GTM launch blueprint, and competitive battlecards.
+- ** Account-Based Marketing (ABM) Sandbox**: B2G ad mockups for LinkedIn, Google Search, and Civic Tech, plus a **Dynamic B2G Cost-of-Delay & ROI Calculator**.
+- ** Content & SEO Strategy Matrix**: High-intent B2G keyword universe (30k+ volume), governance pillar whitepaper preview, and a 30-day multi-channel calendar.
+- ** Resume & STAR Interview Kit**: Role-specific bullet points for resume inclusion and STAR framework talking points.
 
 ---
 
-## 🛠️ Quick Start & Local Setup
+##  Quick Start & Local Setup
 
 ```bash
 # Clone the repository
@@ -50,7 +50,7 @@ Open `http://localhost:5173` in your browser to view the live interactive applic
 
 ---
 
-## 📸 Application Showcase
+##  Application Showcase
 
 ### 1. Live Medico-Legal Evidence Simulator
 - Real-time SHA-256 cryptographic evidence hashing
@@ -64,7 +64,7 @@ Open `http://localhost:5173` in your browser to view the live interactive applic
 
 ---
 
-## 💼 Resume Accomplishments
+##  Resume Accomplishments
 
 ```text
 • Spearheaded Go-To-Market (GTM) positioning & stakeholder alignment strategy for L-Trace, a zero-trust Medico-Legal Evidence Bridge connecting healthcare systems, forensic labs, and law enforcement agencies.
@@ -74,5 +74,5 @@ Open `http://localhost:5173` in your browser to view the live interactive applic
 
 ---
 
-## 📜 License
+##  License
 Licensed under the [MIT License](LICENSE). Built by [Gajanand](https://github.com/gajanand-24).
